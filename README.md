@@ -1,14 +1,12 @@
 ## Product Manager (Next.js, Zustand, Tailwind, shadcn/ui)
 
-**Name:** DRAMANE TRAORE
-**Roll Number:** 24BCY70270
+**Name:** kester
+**Roll Number:** 24BCY7049
 **Experiment No:** 7
 
 ---
 
-### 🌐 Live Demo
 
-🔗 https://24-bcy-70270-7b-dramane-traore.vercel.app/
 
 ---
 
